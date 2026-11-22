@@ -1,0 +1,9 @@
+replica/screens/
+local.properties
+.gradle/
+build/
+*.apk
+*.iml
+.idea/
+app/src/main/jniLibs/
+.kotlin/
